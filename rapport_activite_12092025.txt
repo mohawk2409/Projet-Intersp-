@@ -1,0 +1,2 @@
+Rapport d'activité 12/09/2025 G10 :
+Nous avons précisé notre cahier des charges, nous avons commencé à mettre des tâches sur JIRA pour finalement faire la maquette sur Figma car il nous faut une vue d'ensemble de notre application web pour savoir quelle fonctionnalité nous allons intégrer.
